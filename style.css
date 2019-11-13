@@ -33,6 +33,11 @@ h3 {
     margin-top: 0em;
 }
 
+	@media (max-width: 991.98px) {
+      		h2, h3 {
+        	font-size: 2rem; } }
+
+
 button {
     font-family: 'Acme', sans-serif;
     color: #fff !important;
