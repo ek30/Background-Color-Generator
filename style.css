@@ -31,12 +31,11 @@ h3 {
     letter-spacing: 0.01em;
     margin-bottom: 3em;
     margin-top: 0em;
+
 }
-
-	@media (max-width: 991.98px) {
-      		h2, h3 {
-        	font-size: 2rem; } }
-
+    @media (max-width: 991.98px) {
+      h2, h3 {
+        font-size: 2rem; } }
 
 button {
     font-family: 'Acme', sans-serif;
@@ -52,9 +51,10 @@ button {
     transition: all 0.4s ease 0s;
 }
 
- 	@media (max-width: 991.98px) {
-      		button {
-        	padding: 30px; } }
+    @media (max-width: 991.98px) {
+      button {
+        padding: 30px; } }
+
 
 .color1, .color2 {
     background:transparent;
@@ -66,7 +66,7 @@ button {
 
 footer {
   font-family: 'Ropa Sans', sans-serif;
-  position: fixed; 
+  position: fixed;
   left: 0;
   bottom: 0;
   width: 100%;
