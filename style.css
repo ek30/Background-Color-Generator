@@ -52,9 +52,9 @@ button {
     transition: all 0.4s ease 0s;
 }
 
- @media (max-width: 991.98px) {
-      button {
-        padding: 30px; } }
+ 	@media (max-width: 991.98px) {
+      		button {
+        	padding: 30px; } }
 
 .color1, .color2 {
     background:transparent;
